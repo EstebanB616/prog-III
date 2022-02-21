@@ -1,0 +1,13 @@
+{
+    "db-connections":{
+        "mongodb":{
+            "host":"cluster0.4ukje.mongodb.net",
+            "user":"esteban616",
+            "password":"Cualquiera616",
+            "dbname":"equipos"
+        }
+    },
+
+    "port":3000
+
+}
